@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GodexJarSample</string>   
+    <color name="app_background">#FF0000FF</color>
+    <dimen name="default_border">5px</dimen>
+   
+    <!--  Interface -->
+    <string name="wifi">WiFi Connect</string>
+    <string name="bt">Bluetooth DeviceList Connect</string>
+	<string name="wifititle">Please enter Address:</string>	
+    
+</resources>
